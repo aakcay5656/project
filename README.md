@@ -1,6 +1,11 @@
 # project
 
-# Meyve Kaşifi
+
+---
+
+# Ürün İsmi
+
+**Meyve Kaşifi**
 
 Yapay zekâ destekli, çocukların meyveleri eğlenerek öğrenmesini sağlayan YOLOv4 tabanlı eğitim oyunu.
 
@@ -20,11 +25,6 @@ Yapay zekâ destekli, çocukların meyveleri eğlenerek öğrenmesini sağlayan 
 | **Abdullah AKÇAY** | Product Owner & Application Developer | Ürün gereksinimlerinin belirlenmesi, Product Backlog'un oluşturulması ve önceliklendirilmesi, uygulamanın geliştirilmesi ve oyun mekaniklerinin tasarlanması. |
 | **Gamze FERİZLİ** | Application Developer & Documentation Coordinator | Uygulama geliştirme sürecine destek verilmesi, proje dokümantasyonunun hazırlanması, sprint raporlarının oluşturulması, proje ilerleyişinin takip edilmesi ve takım içi bilgilendirmelerin yürütülmesi. |
 
----
-
-# Ürün İsmi
-
-**Meyve Kaşifi**
 
 ---
 
