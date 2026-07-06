@@ -53,15 +53,4 @@ Meyve Kaşifi, çocukların meyveleri eğlenerek öğrenmelerini amaçlayan yapa
 
 # Product Backlog
 
-| ID | User Story | Öncelik |
-|----|------------|----------|
-| PB-1 | Kullanıcı oyunu başlatabilmelidir. | Yüksek |
-| PB-2 | Kullanıcı kamera veya galeriden meyve görseli yükleyebilmelidir. | Yüksek |
-| PB-3 | Sistem yüklenen görseldeki meyveyi YOLOv4 modeli ile tespit edebilmelidir. | Yüksek |
-| PB-4 | Tespit edilen meyvenin adı ekranda gösterilmelidir. | Yüksek |
-| PB-5 | Doğru tahmin edilen meyve için kullanıcı puan kazanmalıdır. | Yüksek |
-| PB-6 | Yanlış tahminlerde doğru cevap kullanıcıya gösterilmelidir. | Orta |
-| PB-7 | Oyun sonunda toplam puan görüntülenmelidir. | Orta |
-| PB-8 | Kullanıcı oyunu tekrar başlatabilmelidir. | Orta |
-| PB-9 | Çocukların kolay kullanabileceği sade ve eğlenceli bir arayüz geliştirilmelidir. | Orta |
-| PB-10 | Sisteme yeni meyve türleri kolayca eklenebilmelidir. | Düşük |
+https://miro.com/app/live-embed/uXjVH-OzLa0=/?embedMode=view_only_without_ui&moveToViewport=-1853%2C-727%2C2098%2C949&embedId=608955236928
