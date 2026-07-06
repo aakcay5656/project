@@ -53,4 +53,4 @@ Meyve Kaşifi, çocukların meyveleri eğlenerek öğrenmelerini amaçlayan yapa
 
 # Product Backlog
 
-https://miro.com/app/live-embed/uXjVH-OzLa0=/?embedMode=view_only_without_ui&moveToViewport=-1853%2C-727%2C2098%2C949&embedId=608955236928
+ [VisionX Sprint Board](https://miro.com/app/live-embed/uXjVH-OzLa0=/?embedMode=view_only_without_ui&moveToViewport=-1853%2C-727%2C2098%2C949&embedId=608955236928)
