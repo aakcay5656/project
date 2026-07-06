@@ -1,7 +1,3 @@
-# project
-
-
----
 
 # Ürün İsmi
 
