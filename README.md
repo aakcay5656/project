@@ -83,4 +83,3 @@ Sprint Review katılımcıları:
   - Proje planlaması ve görev dağılımı başarılı şekilde tamamlanmıştır.
   - Sprint Board üzerinden görev takibinin düzenli yapılmasına karar verilmiştir.
   - Veri hazırlama ve geliştirme süreçlerinin bir sonraki sprintte daha planlı ilerletilmesi hedeflenmiştir.
-
