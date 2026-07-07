@@ -1,4 +1,3 @@
-
 # Ürün İsmi : Meyve Kaşifi
 
 Yapay zekâ destekli, çocukların meyveleri eğlenerek öğrenmesini sağlayan YOLOv4 tabanlı eğitim oyunu.
