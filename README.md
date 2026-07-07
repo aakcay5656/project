@@ -4,11 +4,9 @@
 Yapay zekâ destekli, çocukların meyveleri eğlenerek öğrenmesini sağlayan YOLOv4 tabanlı eğitim oyunu.
 
 ---
-# Takım İsmi
+# Takım İsmi (Grup 84)
 
 **VisionX**
-
-**Grup 84**
 
 ---
 
@@ -54,8 +52,7 @@ Meyve Kaşifi, çocukların meyveleri eğlenerek öğrenmelerini amaçlayan yapa
 
 # Product Backlog
 
- [VisionX Sprint Board](https://miro.com/app/live-embed/uXjVH-OzLa0=/?embedMode=view_only_without_ui&moveToViewport=-1853%2C-727%2C2098%2C949&embedId=608955236928)
-
+https://miro.com/welcomeonboard/OWd4UDFxZjU2bmR5NHgrTXhGVzh4NjFnUHA3U3VsTno0dXEzb3Q2UlBEcS9CdDAyY0E5TkZNbW96WFI1UkhEUS9aYUNUZmhPRXlVMGJJTWVXLzVtZXZIcUNtRHNwR2JqeXRGRUpRVHJXNFBDdzBDQWE0SDZ6KzU1VUoxN3IvUlZBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=369723976325
 
 # Sprint 1
 
