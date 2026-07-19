@@ -101,7 +101,8 @@ Sprint Review katılımcıları:
     - Veri setinin etiketlenmesi
     - Veri setinin eğitim ve test olarak ayrılması
     - Geliştirme ortamının kurulması
-<img width="1920" height="1080" alt="Ekran görüntüsü 2026-07-19 221810" src="https://github.com/user-attachments/assets/4763f972-3c92-447f-9bf4-28021be20872" />
+    - 
+<img width="1102" height="1416" alt="Meyve Kaşifi (1)" src="https://github.com/user-attachments/assets/3cacfcd1-1ad1-4358-8d38-147c7a4784e5" />
 
 
 - **Ürün Durumu:** Sprint 2 sonunda model geliştirme süreci için gerekli veri seti büyük ölçüde hazırlanmıştır. Meyvelere ait videolar çekilmiş, bu videolar frame'lere ayrıştırılarak görüntüler elde edilmiştir. Oluşturulan veri seti eğitim (train) ve test olarak düzenlenmiştir. Veri setinin etiketlenme süreci devam etmekte olup, tamamlandıktan sonra YOLOv4 modelinin eğitimine başlanacaktır.
