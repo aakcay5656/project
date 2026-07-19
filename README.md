@@ -58,7 +58,7 @@ https://miro.com/welcomeonboard/OWd4UDFxZjU2bmR5NHgrTXhGVzh4NjFnUHA3U3VsTno0dXEz
 
 - **Backlog düzeni ve Story seçimleri:** Product Backlog, projenin geliştirme sürecindeki önceliklere göre oluşturulmuştur. İlk sprint kapsamında araştırma, planlama ve veri hazırlığı süreçlerine odaklanılmıştır. Story'ler daha küçük görevlere (task) ayrılarak Sprint Board üzerinde takip edilmektedir. Sprint boyunca görevler öncelik ve bağımlılıklarına göre planlanmıştır.
 
-- **Daily Scrum:** Daily Scrum toplantılarının ekip üyelerinin uygunluk durumuna göre WhatsApp grubu üzerinden gerçekleştirilmesine karar verilmiştir. Günlük ilerleme durumu, yapılan çalışmalar ve karşılaşılan engeller grup üzerinden paylaşılmıştır. Daily Scrum görüşmelerine ait ekran görüntüleri Readme içerisinde paylaşılacaktır.
+- **Daily Scrum:** Daily Scrum toplantılarının ekip üyelerinin uygunluk durumuna göre WhatsApp grubu üzerinden gerçekleştirilmesine karar verilmiştir. Günlük ilerleme durumu, yapılan çalışmalar ve karşılaşılan engeller grup üzerinden paylaşılmıştır.
 
 - **Sprint board update:** Sprint Board ekran görüntüleri Readme içerisinde paylaşılmıştır. Sprint sonunda;
   - Tamamlanan görevler:
@@ -82,3 +82,60 @@ Sprint Review katılımcıları:
   - Proje planlaması ve görev dağılımı başarılı şekilde tamamlanmıştır.
   - Sprint Board üzerinden görev takibinin düzenli yapılmasına karar verilmiştir.
   - Veri hazırlama ve geliştirme süreçlerinin bir sonraki sprintte daha planlı ilerletilmesi hedeflenmiştir.
+ 
+
+
+# Sprint 2
+
+- **Backlog düzeni ve Story seçimleri:** Sprint 2 kapsamında proje planlama aşamasından geliştirme hazırlık aşamasına geçilmiştir. Bu sprintte model eğitimi için gerekli veri setinin oluşturulmasına öncelik verilmiştir. Story'ler veri toplama, veri işleme, veri seti düzenleme ve etiketleme görevlerine ayrılarak Sprint Board üzerinden takip edilmiştir.
+
+
+- **Daily Scrum:** Daily Scrum toplantılarının ekip üyelerinin uygunluk durumuna göre WhatsApp grubu üzerinden gerçekleştirilmesine karar verilmiştir. Günlük ilerleme durumu, yapılan çalışmalar ve karşılaşılan engeller grup üzerinden paylaşılmıştır.
+
+
+  - **Sprint board update:** Sprint Board ekran görüntüleri Readme içerisinde paylaşılmıştır. Sprint sonunda;
+  - Tamamlanan görevler:
+    - Gerekli araçların (kütüphaneler, yazılımlar) belirlenmesi
+    - Meyve resimlerinden oluşan veri setinin toplanması
+  - Devam eden görevler:
+    - Veri setinin etiketlenmesi
+    - Veri setinin eğitim ve test olarak ayrılması
+    - Geliştirme ortamının kurulması
+<img width="1920" height="1080" alt="Ekran görüntüsü 2026-07-19 221810" src="https://github.com/user-attachments/assets/4763f972-3c92-447f-9bf4-28021be20872" />
+
+
+- **Ürün Durumu:** Sprint 2 sonunda model geliştirme süreci için gerekli veri seti büyük ölçüde hazırlanmıştır. Meyvelere ait videolar çekilmiş, bu videolar frame'lere ayrıştırılarak görüntüler elde edilmiştir. Oluşturulan veri seti eğitim (train) ve test olarak düzenlenmiştir. Veri setinin etiketlenme süreci devam etmekte olup, tamamlandıktan sonra YOLOv4 modelinin eğitimine başlanacaktır.
+
+
+
+- **Sprint Review:** Sprint boyunca YOLOv4 modeli için kullanılacak veri setinin hazırlanmasına odaklanılmıştır. Meyvelere ait videolar çekilmiş, videolar frame'lere bölünerek görüntüler elde edilmiştir. Elde edilen görüntüler train ve test veri setleri olarak düzenlenmiş, etiketleme çalışmalarına başlanmıştır. Sonraki sprintte veri seti etiketleme işlemlerinin tamamlanması, YOLOv4 modelinin eğitilmesi ve ilk model performans sonuçlarının değerlendirilmesi planlanmaktadır.
+
+Sprint Review katılımcıları:
+- Gamze Gül
+- Abdullah Akçay
+- Gamze Ferizli
+
+
+- **Sprint Retrospective:**
+  - Veri toplama süreci planlandığı şekilde tamamlanmıştır.
+  - Veri setinin düzenlenmesi ve train/test ayrımı başarıyla gerçekleştirilmiştir.
+  - Etiketleme sürecinin ekip üyeleri arasında paylaştırılarak daha hızlı ilerletilmesine karar verilmiştir.
+  - Bir sonraki sprintte veri seti etiketlemesinin tamamlanması ve YOLOv4 model eğitimine başlanması hedeflenmiştir.
+
+    
+
+### Veri Seti Etiketleme Çalışmaları
+
+Sprint 2 kapsamında veri setinin etiketleme çalışmalarına başlanmıştır. Etiketleme işlemleri **MakeSense.ai** platformu üzerinden gerçekleştirilmekte olup, proje için belirlenen **4 farklı sınıf** doğrultusunda bounding box'lar oluşturulmaktadır.
+
+#### Etiketleme Örneği 1
+
+<img width="1920" height="1020" alt="Ekran görüntüsü 2026-07-19 220706" src="https://github.com/user-attachments/assets/1e09f54b-cf29-42b0-9e80-51054a51aba5" />
+
+#### Etiketleme Örneği 2
+
+<img width="1920" height="1020" alt="Ekran görüntüsü 2026-07-19 220752" src="https://github.com/user-attachments/assets/3b4a42c8-536c-4a3a-8d00-ecf6f56e8e99" />
+
+
+
+ 
