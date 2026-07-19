@@ -130,11 +130,12 @@ Sprint 2 kapsamında veri setinin etiketleme çalışmalarına başlanmıştır.
 
 #### Etiketleme Örneği 1
 
-<img width="1920" height="1020" alt="Ekran görüntüsü 2026-07-19 220706" src="https://github.com/user-attachments/assets/1e09f54b-cf29-42b0-9e80-51054a51aba5" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2026-07-19 222644" src="https://github.com/user-attachments/assets/101fad67-95f5-4fad-bebf-22392e79f62e" />
 
 #### Etiketleme Örneği 2
 
-<img width="1920" height="1020" alt="Ekran görüntüsü 2026-07-19 220752" src="https://github.com/user-attachments/assets/3b4a42c8-536c-4a3a-8d00-ecf6f56e8e99" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2026-07-19 222651" src="https://github.com/user-attachments/assets/12d1aa6c-543a-47a7-9901-8af48af408e4" />
+
 
 
 
