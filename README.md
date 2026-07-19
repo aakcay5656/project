@@ -93,7 +93,7 @@ Sprint Review katılımcıları:
 - **Daily Scrum:** Daily Scrum toplantılarının ekip üyelerinin uygunluk durumuna göre WhatsApp grubu üzerinden gerçekleştirilmesine karar verilmiştir. Günlük ilerleme durumu, yapılan çalışmalar ve karşılaşılan engeller grup üzerinden paylaşılmıştır.
 
 
-  - **Sprint board update:** Sprint Board ekran görüntüleri Readme içerisinde paylaşılmıştır. Sprint sonunda;
+- **Sprint board update:** Sprint Board ekran görüntüleri Readme içerisinde paylaşılmıştır. Sprint sonunda;
   - Tamamlanan görevler:
     - Gerekli araçların (kütüphaneler, yazılımlar) belirlenmesi
     - Meyve resimlerinden oluşan veri setinin toplanması
