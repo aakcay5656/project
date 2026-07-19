@@ -112,9 +112,9 @@ Sprint Review katılımcıları:
 
 
 Sprint Review katılımcıları:
-Gamze Gül
-Abdullah Akçay
-Gamze Ferizli
+-Gamze Gül
+-Abdullah Akçay
+-Gamze Ferizli
 
 
 - **Sprint Retrospective:**
