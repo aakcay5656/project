@@ -108,8 +108,8 @@ Sprint Review katılımcıları:
 - **Ürün Durumu:** Sprint 2 sonunda model geliştirme süreci için gerekli veri seti büyük ölçüde hazırlanmıştır. Meyvelere ait videolar çekilmiş, bu videolar frame'lere ayrıştırılarak görüntüler elde edilmiştir. Oluşturulan veri seti eğitim (train) ve test olarak düzenlenmiştir. Veri setinin etiketlenme süreci devam etmekte olup, tamamlandıktan sonra YOLOv4 modelinin eğitimine başlanacaktır.
 
 
-
 - **Sprint Review:** Sprint boyunca YOLOv4 modeli için kullanılacak veri setinin hazırlanmasına odaklanılmıştır. Meyvelere ait videolar çekilmiş, videolar frame'lere bölünerek görüntüler elde edilmiştir. Elde edilen görüntüler train ve test veri setleri olarak düzenlenmiş, etiketleme çalışmalarına başlanmıştır. Sonraki sprintte veri seti etiketleme işlemlerinin tamamlanması, YOLOv4 modelinin eğitilmesi ve ilk model performans sonuçlarının değerlendirilmesi planlanmaktadır.
+
 
 Sprint Review katılımcıları:
 - Gamze Gül
