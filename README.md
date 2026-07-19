@@ -101,7 +101,7 @@ Sprint Review katılımcıları:
     - Veri setinin etiketlenmesi
     - Veri setinin eğitim ve test olarak ayrılması
     - Geliştirme ortamının kurulması
-    - 
+    
 <img width="1102" height="1416" alt="Meyve Kaşifi (1)" src="https://github.com/user-attachments/assets/3cacfcd1-1ad1-4358-8d38-147c7a4784e5" />
 
 
